@@ -1,0 +1,4 @@
+com\example\magento\tests\BaseTest.class
+com\example\magento\tests\SearchTest.class
+com\example\magento\AppTest.class
+com\example\magento\tests\CartTest.class

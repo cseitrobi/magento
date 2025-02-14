@@ -1,0 +1,8 @@
+com\example\magento\pages\BasePage.class
+com\example\magento\utils\DriverFactory.class
+com\example\magento\pages\CartPage.class
+com\example\magento\pages\ProductPage.class
+com\example\magento\App.class
+com\example\magento\pages\SearchResultsPage.class
+com\example\magento\pages\HomePage.class
+com\example\magento\utils\ConfigReader.class
